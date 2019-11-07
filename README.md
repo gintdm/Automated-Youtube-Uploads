@@ -2,16 +2,8 @@
 
 Dependincies
 Python v 3.x
-and the following python modules, easily installed with pip
-time, os, googleapiclient.discovery, configparser, pickle, requests, json, shutil, datetime
-
-+
-
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
-from googleapiclient.discovery import build
-from googleapiclient.http import MediaFileUpload
-
+and the following python libraries
+time, os, googleapiclient.discovery, configparser, pickle, requests, json, shutil, datetime, google_auth_oauthlib.flow, google.auth.transport.requests, googleapiclient.discovery, googleapiclient.http
 
 Set-Up
 
@@ -25,5 +17,7 @@ you must save these credentials to the working directory as "my_secret.json"
 
 3). You must place a ".png" thumbnail with a name that matches the name of the coorosponding video into your working directory for each video. This will be that videos thumbnail.
 
-4). Place the Video you wish to upload into the waiting folder and run main.py. 
+4). You must populate the config file with the metadata you wish to add for your videos. 2 example config keys exist, "[key]" and "[test]"
+
+5). Place the video you wish to upload into the waiting folder and run main.py. 
 
