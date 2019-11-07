@@ -2,7 +2,7 @@
 
 Dependincies
 Python v 3.x
-and the following python libraries
+and the following python libraries:
 time, os, googleapiclient.discovery, configparser, pickle, requests, json, shutil, datetime, google_auth_oauthlib.flow, google.auth.transport.requests, googleapiclient.discovery, googleapiclient.http
 
 Set-Up
