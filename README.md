@@ -19,5 +19,7 @@ you must save these credentials to the working directory as "my_secret.json"
 
 4). You must populate the config file with the metadata you wish to add for your videos. 2 example config keys exist, "[key]" and "[test]"
 
-5). Place the video you wish to upload into the "Waiting" folder and run main.py. 
+5). See example_folder.PNG for an idea of what your working directory should look like. 
+
+6). Place the video you wish to upload into the "Waiting" folder and run main.py. 
 
