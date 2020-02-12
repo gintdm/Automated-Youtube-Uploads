@@ -1,0 +1,55 @@
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "150.9900",
+        "03. high": "151.8700",
+        "04. low": "150.2700",
+        "05. price": "151.7500",
+        "06. volume": "16049680",
+        "07. latest trading day": "2019-12-06",
+        "08. previous close": "149.9300",
+        "09. change": "1.8200",
+        "10. change percent": "1.2139%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "1333.4400",
+        "03. high": "1344.0000",
+        "04. low": "1333.4400",
+        "05. price": "1340.6200",
+        "06. volume": "1264878",
+        "07. latest trading day": "2019-12-06",
+        "08. previous close": "1328.1300",
+        "09. change": "12.4900",
+        "10. change percent": "0.9404%"
+    }
+}{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for GLOBAL_QUOTE."
+}{
+    "Global Quote": {
+        "01. symbol": "BABA",
+        "02. open": "201.1100",
+        "03. high": "202.0000",
+        "04. low": "199.5100",
+        "05. price": "201.8900",
+        "06. volume": "13413183",
+        "07. latest trading day": "2019-12-06",
+        "08. previous close": "200.0000",
+        "09. change": "1.8900",
+        "10. change percent": "0.9450%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "ROKU",
+        "02. open": "148.6000",
+        "03. high": "149.7900",
+        "04. low": "143.1300",
+        "05. price": "144.2600",
+        "06. volume": "15726480",
+        "07. latest trading day": "2019-12-06",
+        "08. previous close": "148.3400",
+        "09. change": "-4.0800",
+        "10. change percent": "-2.7504%"
+    }
+}
